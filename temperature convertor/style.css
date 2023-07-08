@@ -1,0 +1,47 @@
+#convert {
+    background-color: lightgreen;
+    transition: background-color 0.3s ease;
+  }
+  
+  #convert:hover {
+    background-color: #ff00ff;
+  }
+  
+  h1 {
+    font-family: 'Comic Sans MS', cursive;
+    color: #ff00ff;
+  }
+  
+  input {
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 2em;
+    color: #00ff00;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  ::-webkit-input-placeholder {
+    color: #ff0000;
+  }
+  
+  :-moz-placeholder {
+    color: #ff0000;
+  }
+  
+  ::-moz-placeholder {
+    color: #ff0000;
+  }
+  
+  :-ms-input-placeholder {
+    color: #ff0000;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 1.2em;
+    color: #0000ff;
+  }
+  body{
+    background-color:lightskyblue  ;
+  }
