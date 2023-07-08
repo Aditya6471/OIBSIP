@@ -1,2 +1,2 @@
 # OIBSIP
-project submission at owasis infobyte
+project submission at Oasis Infobyte
